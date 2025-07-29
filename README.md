@@ -2,14 +2,15 @@
 
 ###
 
-<p align="left">🎯 Desarrollador de software enfocado en backend y automatización de pruebas.</p>
+<p align="left">🎯 Desarrollador Junior enfocado en backend y automatización de pruebas.</p>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-Expert-blue?style=for-the-badge&logo=java" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-Advanced-green?style=for-the-badge&logo=spring" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Docker-Learning-orange?style=for-the-badge&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Java-Junior-blue?style=for-the-badge&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-Junior-green?style=for-the-badge&logo=spring" alt="Spring"/>
+  <img src="https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazonaws" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-Learning-blue?style=for-the-badge&logo=docker" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-Learning-purple?style=for-the-badge&logo=kubernetes" alt="Kubernetes"/>
 </div>
 
@@ -19,7 +20,7 @@
 
 ###
 
-<p align="left">💻 Programando desde 2022, creando y aprendiendo día a día.<br>🎓 Titulado como Analista Programador Computacional.<br>🔭 Actualmente trabajando en proyectos de automatización y microservicios.<br>🚀 Aprendiendo: Kubernetes, Docker y CI/CD con GitHub Actions.<br>🎯 Objetivo profesional: Convertirme en arquitecto de microservicios y especialista en DevOps.<br>💬 Pregúntame sobre: Java, Spring Boot, automatización de pruebas con Selenium.<br>⚡ Dato curioso: Me fascina optimizar procesos y automatizar todo lo que sea posible.</p>
+<p align="left">💻 Programando desde 2022, creando y aprendiendo día a día.<br>🎓 Titulado como Analista Programador Computacional.<br>🔭 Desarrollador Junior con pasión por el backend y la automatización.<br>🚀 Actualmente aprendiendo: AWS, Kubernetes, Docker y CI/CD con GitHub Actions.<br>🎯 Objetivo profesional: Convertirme en arquitecto de microservicios y especialista en DevOps.<br>💬 Pregúntame sobre: Fundamentos de Java, Spring Boot básico, automatización de pruebas.<br>⚡ Dato curioso: Me fascina optimizar procesos y automatizar todo lo que sea posible.</p>
 
 ###
 
@@ -53,7 +54,7 @@
 
 ###
 
-<h3 align="left">🛠️ Herramientas y otras tecnologías</h3>
+<h3 align="left">🛠️ Herramientas y tecnologías</h3>
 
 ###
 
@@ -63,6 +64,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -88,11 +91,19 @@
 
 ###
 
-<h2 align="left">🚀 Proyectos destacados</h2>
+<h2 align="left">🚀 Proyectos y aprendizaje</h2>
 
 ###
 
-<p align="left">🔧 <strong>Automatización de Pruebas</strong> - Frameworks de testing automatizado con Selenium y TestNG<br>🌐 <strong>APIs REST</strong> - Desarrollo de microservicios con Spring Boot y Spring Security<br>📱 <strong>Aplicaciones Full-Stack</strong> - Proyectos completos con React frontend y Java backend</p>
+<p align="left">🔧 <strong>Automatización de Pruebas</strong> - Aprendiendo testing automatizado con Selenium<br>🌐 <strong>APIs REST básicas</strong> - Desarrollando microservicios simples con Spring Boot<br>📱 <strong>Proyectos de práctica</strong> - Aplicaciones para consolidar conocimientos en Java y React<br>☁️ <strong>Explorando la nube</strong> - Iniciándome en servicios de AWS<br>📚 <strong>Estudiando actualmente</strong> - DevOps, contenedores y orquestación</p>
+
+###
+
+<h2 align="left">🌱 En proceso de aprendizaje</h2>
+
+###
+
+<p align="left">🔹 Profundizando en Spring Framework y Spring Boot<br>🔹 Servicios de AWS (EC2, S3, Lambda, RDS)<br>🔹 Metodologías ágiles y mejores prácticas de desarrollo<br>🔹 Arquitecturas de microservicios<br>🔹 Containerización con Docker<br>🔹 Orquestación con Kubernetes<br>🔹 Pipelines CI/CD con GitHub Actions</p>
 
 ###
 
@@ -104,41 +115,12 @@
   <a href="https://www.linkedin.com/in/maxhernandezg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@maxhernandezg" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxhernandezg/maxhernandezg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxhernandezg/maxhernandezg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maxhernandezg/maxhernandezg/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h2 align="left">📚 Últimos artículos en Medium</h2>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@maxhernandezg/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@maxhernandezg/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@maxhernandezg/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@maxhernandezg/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@maxhernandezg/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@maxhernandezg/2" alt="Medium post 3"  />
-  </a>
 </div>
 
 ###
 
 <div align="center">
-  <p><em>"La automatización no es solo código, es liberación del tiempo para crear cosas más grandes."</em></p>
+  <p><em>"Cada línea de código es un paso hacia convertirme en el desarrollador que quiero ser."</em></p>
 </div>
 
 ###
